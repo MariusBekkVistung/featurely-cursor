@@ -1,3 +1,5 @@
+WORK IN PROGRESS - NOT FUNCTIONAL YET
+
 # Featurely for Cursor
 
 Official Cursor plugin for [Featurely](https://www.featurely.no) — customer feedback, feature management, error tracking, and site operations.
