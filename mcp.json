@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "featurely": {
+      "type": "http",
+      "url": "https://www.featurely.no/api/mcp"
+    },
+    "featurely-docs": {
+      "command": "npx",
+      "args": ["-y", "featurely-mcp@latest"]
+    }
+  }
+}

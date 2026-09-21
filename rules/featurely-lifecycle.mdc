@@ -1,0 +1,13 @@
+---
+description: Keep Featurely records in sync when working on tracked features, bugs, or errors. Never invent Featurely IDs or statuses — query MCP first.
+alwaysApply: false
+---
+
+When this workspace uses Featurely (the user mentions Featurely, a feature/bug/error ID, roadmap, or changelog):
+
+- Read live data through the `featurely` MCP server before answering. Do not invent IDs, vote counts, statuses, or stack traces.
+- Board bugs (`features` + `type=bug`) are not the same as user-reported bugs (`list_bugs` / `error_reports`).
+- If the user asks you to work on or fix a Featurely item, close the loop: set in-progress/investigating immediately, post status notes, then mark done/resolved and publish changelog (features/bugs only). Details are in the `featurely` skill.
+- Writes only for the item they named. Never bulk-mutate. Never DELETE.
+- `actorName` is `"Cursor"`. Never paste API keys into chat or source.
+- SDK install/config uses `featurely-docs` MCP and the package skills, not guessed APIs.

@@ -1,0 +1,8 @@
+{
+  "name": "featurely-cursor",
+  "private": true,
+  "description": "Cursor Marketplace plugin for Featurely",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  }
+}

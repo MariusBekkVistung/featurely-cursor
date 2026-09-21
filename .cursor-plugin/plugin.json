@@ -1,0 +1,34 @@
+{
+  "name": "featurely",
+  "displayName": "Featurely",
+  "version": "1.0.0",
+  "description": "Connect Cursor to your Featurely workspace. Query features, bugs, errors, roadmap, and changelog; update status and publish releases; install Featurely SDKs with accurate docs.",
+  "author": {
+    "name": "Featurely",
+    "email": "hello@featurely.no"
+  },
+  "homepage": "https://www.featurely.no",
+  "repository": "https://github.com/MariusBekkVistung/featurely-cursor",
+  "license": "MIT",
+  "keywords": [
+    "featurely",
+    "feedback",
+    "features",
+    "bugs",
+    "errors",
+    "roadmap",
+    "changelog",
+    "mcp",
+    "product",
+    "sdk"
+  ],
+  "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "featurely",
+    "mcp",
+    "product-management",
+    "error-tracking",
+    "feature-flags"
+  ]
+}
