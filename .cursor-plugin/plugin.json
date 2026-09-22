@@ -1,11 +1,11 @@
 {
   "name": "featurely",
   "displayName": "Featurely",
-  "version": "1.0.0",
-  "description": "Connect Cursor to your Featurely workspace. Query features, bugs, errors, roadmap, and changelog; update status and publish releases; install Featurely SDKs with accurate docs.",
+  "version": "1.0.3",
+  "description": "Connect Cursor to your Featurely workspace. Pick a project by name, then query features, bugs, comments, tasks, votes, errors, logs, analytics, releases, roadmap, and changelog; update status and publish releases; install Featurely SDKs with accurate docs.",
   "author": {
     "name": "Featurely",
-    "email": "hello@featurely.no"
+    "email": "support@featurely.no"
   },
   "homepage": "https://www.featurely.no",
   "repository": "https://github.com/MariusBekkVistung/featurely-cursor",
@@ -22,7 +22,7 @@
     "product",
     "sdk"
   ],
-  "logo": "assets/logo.svg",
+  "logo": "assets/logo.png",
   "category": "developer-tools",
   "tags": [
     "featurely",
