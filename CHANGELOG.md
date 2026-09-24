@@ -2,6 +2,7 @@
 
 ## 1.0.3
 
+- Add Claude Code plugin marketplace support (`.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json`) alongside the existing Cursor plugin, published under the name `featurely` — installing it wires up both `featurely` (the real product MCP server) and `featurely-docs` (SDK docs) with the correct configs, instead of a manually hand-typed `mcpServers` entry accidentally pointing `featurely` at the docs package.
 - Align product MCP docs with the live tool list: `list_projects`, per-project scopes, `query` on `list_features`, `list_workflow_statuses`, and `list_releases`.
 - Treat `list_bugs` as board bugs (same as `list_features` with `type=bug`). Analytics takes `days`; do not guess status keys.
 

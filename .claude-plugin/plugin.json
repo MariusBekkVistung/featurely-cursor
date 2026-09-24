@@ -1,0 +1,25 @@
+{
+  "name": "featurely",
+  "displayName": "Featurely",
+  "version": "1.0.3",
+  "description": "Connect Claude Code to your Featurely workspace. Pick a project by name, then query features, bugs, comments, tasks, votes, errors, logs, analytics, releases, roadmap, and changelog; update status and publish releases; install Featurely SDKs with accurate docs.",
+  "author": {
+    "name": "Featurely",
+    "email": "support@featurely.no"
+  },
+  "homepage": "https://www.featurely.no",
+  "repository": "https://github.com/MariusBekkVistung/featurely-cursor",
+  "license": "MIT",
+  "keywords": [
+    "featurely",
+    "feedback",
+    "features",
+    "bugs",
+    "errors",
+    "roadmap",
+    "changelog",
+    "mcp",
+    "product",
+    "sdk"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "featurely",
+  "description": "Featurely product management skills, commands, and agent for Claude Code.",
+  "owner": {
+    "name": "Featurely",
+    "email": "support@featurely.no"
+  },
+  "plugins": [
+    {
+      "name": "featurely",
+      "source": "."
+    }
+  ]
+}
