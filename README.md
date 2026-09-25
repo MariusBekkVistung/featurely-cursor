@@ -1,4 +1,5 @@
-WORK IN PROGRESS - ADDING NEW SKILLS AND FEATURES. AUTH AND BASIC FEATURES ARE NOW WORKING
+OAuth - tested ok
+Features - tested ok
 
 # Featurely for Cursor
 
